@@ -17,3 +17,6 @@
             <li><a href="contact">Contact</a></li>
         </ul>
     </div>
+
+</body>
+</html>

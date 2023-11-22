@@ -23,6 +23,12 @@ Route::get(
         return view('about');
     }
 );
+Route::get(
+    '/welcome', 
+    function () {
+        return view('welcome');
+    }
+);
 
 Route::get(
     '/contact', 
