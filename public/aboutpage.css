@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: gray;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.about-content {
+    margin: 20px;
+    font-size: 20px;
+    text-decoration-color: azure;
+    margin-top: 10px;
+    margin-left: 2px;
+}
+
+.profile-image {
+    max-width: 500px;
+    height: 400px;
+    border-radius: 10px;
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    float: left;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
+
+.about-content .content
+{
+    padding: 2rem 0rem 2rem 1rem;
+}
