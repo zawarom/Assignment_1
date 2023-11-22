@@ -31,6 +31,13 @@ Route::get(
 );
 
 Route::get(
+    '/acheivement', 
+    function () {
+        return view('acheivement');
+    }
+);
+
+Route::get(
     '/contact', 
     function () {
         return view('contact');
