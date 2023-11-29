@@ -43,3 +43,9 @@ Route::get(
         return view('contact');
     }
 );
+Route::get(
+    '/history', 
+    function () {
+        return view('history');
+    }
+);

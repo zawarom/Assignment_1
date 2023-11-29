@@ -6,6 +6,7 @@
     <title>From app</title>
 </head>
 <body>
+    @include('layout.navbar')
     @yield('contents')
 </body>
 </html>
