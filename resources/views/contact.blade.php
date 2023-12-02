@@ -3,7 +3,6 @@
 @section('contents')
 
 @vite('public/navbar.css')
-@vite('public/footer.css')
 @vite('public/contactpage.css')
 
 

@@ -3,7 +3,6 @@
 @section('contents')
 
 @vite('public/navbar.css')
-@vite('public/footer.css')
 @vite('public/historypage.css')
 
     <header>
@@ -27,7 +26,7 @@
 
         <ul class="timeline">
             <li class="event">
-                <img src="debut.jpg" alt="MS Dhoni Debut">
+                
                 <div class="event-content">
                     <h3>International Debut</h3>
                     <p>MS Dhoni made his international debut for India in December 2004.</p>
@@ -51,7 +50,7 @@
           Dhoni equals Adam Gilchrist's international record for most dismissals (6) in an innings in ODIs.
 
             <li class="event">
-                <img src="icc2007.jpg" width="500" height="500" alt="2007 ICC World Cup">
+                
                 <div class="event-content">
                     <h3>2007 ICC World Cup</h3>
                     <p>MS Dhoni led India to victory in the inaugural ICC T20 World Cup in 2007.</p>
@@ -84,7 +83,7 @@
           CSK beat Mumbai Indians by 22 runs in Mumbai.
 
         <li class="event">
-            <img src="icc2011(1).jpg" alt="2011 ICC Cricket World Cup">
+            
             <div class="event-content">
                 <h3>2011 ICC Cricket World Cup</h3>
                 <p>Dhoni captained the Indian team to win the ICC Cricket World Cup in 2011.

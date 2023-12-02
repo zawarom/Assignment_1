@@ -3,7 +3,6 @@
 @section('contents')
 
 @vite('public/navbar.css')
-@vite('public/footer.css')
 @vite('public/homepage.css')
     <header>
         <h1>Welcome to the MS Dhoni Fan Page</h1>
